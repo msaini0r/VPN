@@ -1,8 +1,25 @@
 # Vpn Site
 
+## Description 📝
+
 This is the fronted of a Vpn Site completely made with Html and Css.
 
 You can check the site by clicking here - <a href="https://msaini0r.github.io/VPN-Website/">Link</a>
+
+## Preview ✅
+
+<table style="border:1px solid;">
+<!--   <tr >
+    <th style="text-align: center; border:1px solid;"> Preview </th>
+  </tr> -->
+  <tr >
+    <p align="center"; style="text-align: center; border:1px solid;padding:1em;">
+        <img width="100%" src="Assets/preview.gif">
+    </p>
+  </tr>
+</table>
+<br>
+<hr>
 
 <h1 align="center">⚡Connect with me⚡</h1>
 
