@@ -2,7 +2,7 @@
 
 This is the fronted of a Vpn Site completely made with Html and Css.
 
-You can check the site by clicking here - <a href=https://msaini0r.github.io/VPN/>Link</a>
+You can check the site by clicking here - <a href="https://msaini0r.github.io/VPN-Website/">Link</a>
 
 <h1 align="center">⚡Connect with me⚡</h1>
 
