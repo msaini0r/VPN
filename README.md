@@ -2,7 +2,7 @@
 
 ## Description 📝
 
-This is the fronted of a Vpn Site completely made with Html and Css.
+This is the fronted of a Vpn Site completely made with Html, Css & Bootstrap.
 
 You can check the site by clicking here - <a href="https://msaini0r.github.io/VPN-Website/">Link</a>
 
